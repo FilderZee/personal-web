@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    gap: 2em;
+    padding: 2em;
+    margin: 2em;
+    border-radius: 30px;
+    background-color: #318cc9;
+}
